@@ -1,5 +1,7 @@
 # Conduit - Containerized Full-Stack Application
 
+[![CI Pipeline](https://github.com/Surxya/project-1-conduit/actions/workflows/ci.yml/badge.svg)](https://github.com/Surxya/project-1-conduit/actions/workflows/ci.yml)
+
 A production-ready microservices architecture for the Conduit RealWorld application, fully containerized using Docker, Docker Compose, and custom Nginx reverse proxy routing.
 
 ---
